@@ -1,8 +1,8 @@
 RAD_pooler
 ==========
-# Mark Ravinet, University of Gothenburg, October 2013
+# Perl and bash scripts to sample reads from a set of fastq files
 
-Perl and bash scripts to sample reads from a set of fastq files
+Mark Ravinet, University of Gothenburg, October 2013
 
 RAD_pooler is a simple set of perl and bash scripts which will allow the user to draw a random subset of short DNA
 sequence reads from a group of individual fastq files and to create a larger fastq file, containing all artificially
